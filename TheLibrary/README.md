@@ -155,7 +155,7 @@
 ---
 ## Papers
 
-> ### [*On Computable Numbers, with an Application to the Entsheidungsproblem (1936)*]()
+> ### [*On Computable Numbers, with an Application to the Entsheidungsproblem (1936)*](Papers/Turing_Paper_1936.pdf)
 >   - Alan Turing
 >   
 > ### [*How Unique is Your .onion? ()*]()
