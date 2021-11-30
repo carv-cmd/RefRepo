@@ -4,7 +4,7 @@
 
 ---
 ## Essentials
-> ### [*Clean Code*](), [*Clean Architecture*](), [*Design Patterns*]()
+> ### [*Clean Code*](), [*Clean Architecture*](), [*Clean Agile*](), [*Design Patterns*]()
 >   - Robert C. Martin
 >
 > ### [*Structured Analysis and System Specification*]()
